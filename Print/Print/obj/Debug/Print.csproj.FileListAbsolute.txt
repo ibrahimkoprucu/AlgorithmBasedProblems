@@ -1,0 +1,7 @@
+C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\Print\Print\bin\Debug\Print.exe.config
+C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\Print\Print\bin\Debug\Print.exe
+C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\Print\Print\bin\Debug\Print.pdb
+C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\Print\Print\obj\Debug\Print.csprojAssemblyReference.cache
+C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\Print\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\Print\Print\obj\Debug\Print.exe
+C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\Print\Print\obj\Debug\Print.pdb
