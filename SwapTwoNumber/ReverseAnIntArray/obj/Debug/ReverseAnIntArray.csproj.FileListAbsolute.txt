@@ -1,7 +1,0 @@
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\ReverseAnIntArray\bin\Debug\ReverseAnIntArray.exe.config
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\ReverseAnIntArray\bin\Debug\ReverseAnIntArray.exe
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\ReverseAnIntArray\bin\Debug\ReverseAnIntArray.pdb
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\ReverseAnIntArray\obj\Debug\ReverseAnIntArray.csproj.CoreCompileInputs.cache
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\ReverseAnIntArray\obj\Debug\ReverseAnIntArray.exe
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\ReverseAnIntArray\obj\Debug\ReverseAnIntArray.pdb
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\ReverseAnIntArray\obj\Debug\ReverseAnIntArray.csprojAssemblyReference.cache

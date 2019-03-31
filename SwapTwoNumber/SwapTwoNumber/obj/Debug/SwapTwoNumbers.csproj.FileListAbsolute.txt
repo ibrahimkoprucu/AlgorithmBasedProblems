@@ -1,6 +1,0 @@
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\SwapTwoNumber\bin\Debug\SwapTwoNumber.exe.config
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\SwapTwoNumber\bin\Debug\SwapTwoNumber.exe
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\SwapTwoNumber\bin\Debug\SwapTwoNumber.pdb
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\SwapTwoNumber\obj\Debug\SwapTwoNumbers.csproj.CoreCompileInputs.cache
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\SwapTwoNumber\obj\Debug\SwapTwoNumber.exe
-C:\Users\kasim\Desktop\Bahar Dönemi Vize Çalışmaları\Java Dersi Algoritmalar\SwapTwoNumber\SwapTwoNumber\obj\Debug\SwapTwoNumber.pdb
